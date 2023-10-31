@@ -40,8 +40,3 @@ docker run \
     -d \
     prom/prometheus
 ```
-### Start project
-```
-./mvnw spring-boot:run
-```
-
